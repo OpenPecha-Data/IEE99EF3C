@@ -1,16 +1,17 @@
-id: opecha:P000343
+id: P000343
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W25059
   title: སངས་རྒྱས་ཆོས་ལུགས་ཀྱི་ལྟ་སྤྱོད་སྐོར་གོ་བདེར་བཤད་པ་ཕན་བདེ་རྒྱ་མཚོའི་གྲུ་གཟིངས
-  volume:
+  author: ''
+  volumes:
     223b7c1dfb374cc599536b6d6022ab31:
       image_group_id: I1PD30299
       title: Volume 1 of sangs rgyas chos lugs kyi lta spyod skor go bder bshad pa
         phan bde rgya mtsho'i gru gzings
       volume_number: 1
       total_pages: 124
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: སངས་རྒྱས་ཆོས་ལུགས་ཀྱི་ལྟ་སྤྱོད་སྐོར་གོ་བདེར་བཤད་པ་ཕན་བདེ་རྒྱ་མཚོའི་གྲུ་གཟིངས
   author: ''
